@@ -49,10 +49,3 @@ requirements installed, and you should select that environment's kernel so the
 notebook can import the installed packages. You do not need to use the original
 `python3_11` environment; create your own environment using the commands above.
 
-## Tests
-
-Run the plotting utility tests from the project root:
-
-```bash
-python -m unittest discover -s tests
-```
